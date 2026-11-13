@@ -1,0 +1,6 @@
+{
+  "name": "Motor Elétrico CC — Induzido e Escovas",
+  "description": "Animação 3D interativa do funcionamento do motor elétrico de corrente contínua, com foco no induzido, comutador e escovas de carvão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
